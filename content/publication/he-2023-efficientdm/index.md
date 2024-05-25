@@ -11,5 +11,5 @@ date: '2024-01-01'
 publishDate: '2024-05-25T04:46:10.823373Z'
 publication_types:
 - paper-conference
-publication: '*The Twelfth International Conference on Learning Representations*'
+publication: '*ICLR 2024 (spotlight)*'
 ---

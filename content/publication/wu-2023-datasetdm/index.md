@@ -14,5 +14,5 @@ date: '2023-01-01'
 publishDate: '2024-05-25T04:46:10.845924Z'
 publication_types:
 - article-journal
-publication: '*Advances in Neural Information Processing Systems*'
+publication: '*NeurIPS 2023*'
 ---
