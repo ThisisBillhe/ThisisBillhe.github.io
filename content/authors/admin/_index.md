@@ -55,7 +55,7 @@ interests:
 education:
   - area: PhD Electronic Information Technology
     institution: Zhejiang University
-    date_start: 2026-06-30 (expected)
+    date_start: 2026-06-30
     date_end: 2021-09-01
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
