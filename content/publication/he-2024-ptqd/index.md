@@ -7,9 +7,9 @@ authors:
 - Weijia Wu
 - Hong Zhou
 - Bohan Zhuang
-date: '2023-01-01'
+date: '2023-05-01'
 publishDate: '2024-05-25T04:46:10.839524Z'
 publication_types:
 - article-journal
-publication: '*NeurIPS 2023*'
+publication: '**NeurIPS 2023**'
 ---

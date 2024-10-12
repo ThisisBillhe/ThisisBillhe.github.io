@@ -12,5 +12,5 @@ date: '2023-03-01'
 publishDate: '2024-05-25T04:46:10.852519Z'
 publication_types:
 - paper-conference
-publication: '*ICCV 2023*'
+publication: '**ICCV 2023**'
 ---
