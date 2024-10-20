@@ -11,5 +11,5 @@ date: '2024-04-01'
 publishDate: '2024-10-14T08:28:40.198690Z'
 publication_types:
 - article-journal
-publication: '*NeurIPS 2024*'
+publication: '**NeurIPS 2024**'
 ---
