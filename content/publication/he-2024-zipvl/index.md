@@ -19,7 +19,7 @@ url_pdf: https://arxiv.org/pdf/2410.08584
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://hexy.tech/zipvl/'
+url_project: https://hexy.tech/zipvl/
 url_slides: ''
 url_source: ''
 url_video: ''
