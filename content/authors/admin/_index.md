@@ -47,8 +47,8 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Efficient Visual Generation
-  - Model Compression (especially Quantization & Binarization)
+  - RL for Visual Generation
+  - Efficient Visual Generation (Parallel Decoding, Quantization, Sparse Attention)
   # - Tiny ML 
   # - Information Retrieval
 
@@ -184,4 +184,4 @@ education:
 
 ## About Me
 
-Yefei He is a third-year Ph.D. candidate at Zhejiang University, supervised by Prof. Hong Zhou. He is also closely collaborated with Prof. [Bohan Zhuang](https://bohanzhuang.github.io/). His research focuses on developing efficient AI algorithms for computer vision and natural language processing tasks, striving to enhance AI's practicality in real-world scenarios.
+Yefei He is a final-year Ph.D. candidate at Zhejiang University, supervised by Prof. Hong Zhou. He is also closely collaborated with Prof. [Bohan Zhuang](https://bohanzhuang.github.io/). His research focuses on developing efficient AI algorithms for computer vision and natural language processing tasks, striving to enhance AI's practicality in real-world scenarios.
