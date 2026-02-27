@@ -1,8 +1,8 @@
 ---
 title: 'Sparsity Forcing: Reinforcing Token Sparsity of MLLMs'
 authors:
-- Feng Chen
-- Yefei He
+- Feng Chen*
+- Yefei He*
 - Lequan Lin
 - Jing Liu
 - Bohan Zhuang
